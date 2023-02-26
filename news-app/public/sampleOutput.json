@@ -1,0 +1,15 @@
+{
+    "status":"ok","totalResults":3,"articles":
+[
+    {"source":{"id":"google-news","name":"Google News"},"author":null,
+    "title":"Russia Launches “Rescue” Soyuz Spacecraft to the Space Station - SciTechDaily",
+    "description":"",
+    "url":"https://accounts.google.com/v3/signin/identifier?dsh=S654515928:1677235960778536&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiVmh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9ydXNzaWEtbGF1bmNoZXMtcmVzY3VlLXNveXV6LXNwYWNlY3JhZnQtdG8tdGhlLXNwYWNlLXN0YXRpb24v0gEA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHeU6ZgCVC8nK6XotVqNzggTsRfUk0Zklet2khkgz1Lm9zlKP4LL8p9XTPYyfBbQVYIl6Z9TRA",
+    "urlToImage":null,"publishedAt":"2023-02-24T09:22:59Z","content":"Not your computer? Use a private browsing window to sign in. Learn more"},
+    {"source":{"id":"google-news","name":"Google News"},"author":null,"title":"China calls for a cease-fire and peace talks between Russia and Ukraine - NPR",
+    "description":"",
+    "url":"https://accounts.google.com/v3/signin/identifier?dsh=S906333146:1677237106059666&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMicWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wMi8yNC8xMTU5MjA4NDEzL2NoaW5hLWNhbGxzLWZvci1hLWNlYXNlLWZpcmUtYW5kLXBlYWNlLXRhbGtzLWJldHdlZW4tcnVzc2lhLWFuZC11a3JhaW5l0gEA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHcGLGtE9UOsOE2EymLfVru8rhL6C_JOS9BJaW2d67IlQZJ-gPAcJ_ezaKcom4idCjBUmkE4","urlToImage":null,"publishedAt":"2023-02-24T09:05:58Z","content":"Not your computer? Use Guest mode to sign in privately. Learn more"},
+{"source":{"id":null,"name":"New York Post"},"author":"Reuters","title":"Zelensky's message on Ukraine war anniversary: 'we will defeat everyone' - New York Post ",
+"description":"Ukrainian President Volodymyr Zelensky marked the first anniversary of Russia’s full-scale invasion on Friday with a somber message of defiance to his people, saying “we will defeat eve…",
+"url":"https://nypost.com/2023/02/24/ukraine-president-volodymyr-zelensky-marks-war-anniversary/","urlToImage":"https://nypost.com/wp-content/uploads/sites/2/2023/02/newspress-collage-25891071-1677231773146.jpg?quality=75&strip=all&1677213818&w=1024","publishedAt":"2023-02-24T08:41:00Z","content":"Ukrainian President Volodymyr Zelensky marked the first anniversary of Russia’s full-scale invasion on Friday with a somber message of defiance to his people, saying “we will defeat everyone”.\r\nIn a … [+2435 chars]"
+}]}
